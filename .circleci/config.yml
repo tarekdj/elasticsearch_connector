@@ -152,3 +152,4 @@ workflows:
       - run-behat-tests
       - run-code-sniffer
       - run-code-coverage
+
